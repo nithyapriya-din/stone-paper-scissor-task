@@ -1,22 +1,7 @@
 
 ## 📜 Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Useful resources](#useful-resources)
-- [Author](#author)
-
-## 📝 Overview
-
-### The challenge
-
-- Your challenge is to build out this Rock, Paper, Scissors game and get it looking as close to the design as possible.
-
+-
 - Your users should be able to:
   - ☑️ View the optimal layout for the game depending on their device's screen size
   - ☑️ Play Rock, Paper, Scissors against the computer
@@ -194,6 +179,9 @@ const openGame = (usersPick) => {
 #### ⚡ Deployment Bug:
 
 - [How to Deploy a Routed React App to GitHub Pages](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
+
+  ##deployment:
+  1.
 
 
   
