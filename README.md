@@ -15,10 +15,10 @@
 
 ### Links
 
-- Solution URL: [Link](https://github.com/anushkachauhxn/fm-rock-paper-scissors-lizard-spock)
+
 - Live Site URL: [Link](https://anushkachauhxn.github.io/fm-rock-paper-scissors-lizard-spock/)
 
-## 💡 My process
+
 
 ### Built with
 
