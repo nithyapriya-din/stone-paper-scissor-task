@@ -1,8 +1,3 @@
-# 🎯 Frontend Mentor - Rock, Paper, Scissors, Lizard, Spock Challenge
-
-This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-#### ➡️ Frontend Mentor Projects: https://github.com/anushkachauhxn/frontend-mentor-projects
 
 ## 📜 Table of contents
 
@@ -200,10 +195,5 @@ const openGame = (usersPick) => {
 
 - [How to Deploy a Routed React App to GitHub Pages](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
 
-## ⭐ Author
 
-- GitHub - [@anushkachauhxn](https://github.com/anushkachauhxn)
-- Behance - [@anushka_creates](https://www.behance.net/anushka_creates)
-
-- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/anushka-chauhan)
-- Twitter - [@anushka_creates](https://twitter.com/anushka_creates)
+  
