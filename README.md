@@ -16,7 +16,7 @@
 ### Links
 
 
-- Live Site URL: [Link](https://anushkachauhxn.github.io/fm-rock-paper-scissors-lizard-spock/)
+- Live Site URL: [Link](https://scissors-paper-rock-game.netlify.app/)
 
 
 
@@ -181,7 +181,9 @@ const openGame = (usersPick) => {
 - [How to Deploy a Routed React App to GitHub Pages](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
 
   ##deployment:
-  1.
+  1.https://scissors-paper-rock-game.netlify.app/
+
+  ##AWS DEPLOYMENT LINK:https://main.dhwd0kfwkhnhw.amplifyapp.com/
 
 
   
