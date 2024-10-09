@@ -181,9 +181,9 @@ const openGame = (usersPick) => {
 - [How to Deploy a Routed React App to GitHub Pages](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
 
   ##deployment:
-  1.https://scissors-paper-rock-game.netlify.app/
+  1.https://rockpaperscisor.netlify.app/
 
-  ##AWS DEPLOYMENT LINK:https://main.dhwd0kfwkhnhw.amplifyapp.com/
+  ##AWS DEPLOYMENT LINK:https://main.d2xk83je4322kw.amplifyapp.com/
 
 
   
